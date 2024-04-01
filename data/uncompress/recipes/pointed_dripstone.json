@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:dripstone_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pointed_dripstone",
+    "count": 4
+  },
+  "group": "uncompress"
+}
